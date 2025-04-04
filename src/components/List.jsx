@@ -6,7 +6,7 @@ It fetches the data from the API and maps through the characters to display them
 import { useEffect, useState } from "react";
 import { Container, Grid, Typography, CircularProgress, Box } from '@mui/material';
 //import the receiver component
-import Character from "./character";
+import Character from "./Character";
 import backgroundImage from '../assets/shubham-dhage-t0Bv0OBQuTg-unsplash.jpg';
 
 function List() {
