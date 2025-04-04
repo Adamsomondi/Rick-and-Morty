@@ -3,6 +3,8 @@
 
 Welcome to the Rick and Morty Website! This project is a web application that allows you to explore characters, episodes, and locations from the Rick and Morty universe. The website is built using React and Vite.
 
+ CHECK IT OUT https://67efd2d8971c7a4aabfbaab5--mortymultiverse.netlify.app/
+
 ## Features
 
 - Browse and search for characters from the show
