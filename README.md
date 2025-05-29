@@ -1,9 +1,11 @@
 
 # Rick and Morty Website
-<pre>
+
+<p>
 Welcome to the Rick and Morty Universe🧪👨🏿‍🔬🔬.
+  <p>
 This is a fun web application project that allows you to explore characters, episodes, and locations from the Rick and Morty universe.
-</pre>
+  </p>
 
 <b>CHECK IT OUT👇  <b/>
 <p>
